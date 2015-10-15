@@ -8,7 +8,9 @@ jsonp_handler({
  "browserify": {
   "external": [
    "react",
-   "react/addons",
+   "react-dom",
+   "react-addons-update",
+   "react-addons-pure-render-mixin",
    "ksana-search",
    "ksana-jsonrom",
    "ksana-database",

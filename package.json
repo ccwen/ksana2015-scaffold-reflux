@@ -1,7 +1,7 @@
 {
   "name": "ksana2015-scaffold-reflux",
   "description": "New reflux application",
-  "version": "0.0.1",
+  "version": "0.14.0",
   "main": "index.html",
   "inject-js-start":"nwmain.js",
   "single-instance":true,
