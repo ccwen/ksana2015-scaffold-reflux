@@ -18,5 +18,5 @@ jsonp_handler({
   ]
  },
 "files":
-  ["index.html","index.css","react-bundle.js","bundle.js","jquery.js","ksana.js"]
+  ["index.html","index.css","react-bundle.js","bundle.js","ksana.js"]
 })
